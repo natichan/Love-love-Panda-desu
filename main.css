@@ -1,0 +1,97 @@
+header{
+	color: white;
+    text-align: right;
+    background-color: #F78E69;
+}
+.firstPanda{
+    background-image: url(img-panda/img/uno.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+}
+.line{
+    background-color: #F78E69;
+    height: 20px;
+
+}
+.secondPanda{
+    background-image: url(img-panda/img/dos.jpg);
+    height: 700px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+}
+.lastPanda{
+    background-image: url(img-panda/img/tres.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+}
+img{
+    background-position: center;
+    width: 100%;
+    background-color: #ABE188;
+    filter: grayscale(100%);
+    height: 60%;
+    width: 100%;    
+}
+main{
+    background-color: #ABE188;
+    border-top: 20px solid #ABE188;
+    border-bottom: 20px solid #ABE188;
+}
+.text{
+    padding: 29px;
+    font-size: 20px;
+    background-color: #F78E69;
+    color: white;
+    text-align: center;
+}
+.pictures{
+    padding: 5%;
+    margin-bottom: 30px;
+    background-color: #ABE188;
+}
+h2{
+    text-align: center;
+}
+.littleOne{
+    background-image: url(img-panda/img/a1.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+    border: 5px solid #fff;
+    width: 100%;
+}
+.littleTwo{
+    background-image: url(img-panda/img/a2.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+    border: 5px solid #fff;
+    width: 100%;
+}
+.littleThree{
+    background-image: url(img-panda/img/a3.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+    border: 5px solid #fff;
+    width: 100%;
+}
+.littleFour{
+    background-image: url(img-panda/img/a4.jpg);
+    height: 200px;
+    background-size: cover;
+    background-position-y: center;
+    filter: grayscale(100%);
+    border: 5px solid #fff;
+    width: 100%;
+}
+
+
